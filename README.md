@@ -15,7 +15,7 @@
 12. Answer 1 question, bringing your total up to $107
 13. **Buy the Level 3 ($50) money per question upgrade** for $100, making your total $7
 14. Answer 1 question, bringing your total up to $77
-15. Buy the mega bonus for $55, making your total $22
+15. **Buy the mega bonus** for $55, making your total $22
 16. Answer 1 question, bringing your total up to $92
 17. Answer 1 question, bringing your total up to $162
 18. **Buy the Level 3 ($100) streak bonus upgrade** for $150, making your total $12
