@@ -1,0 +1,98 @@
+$ python3 calc-gimkit-strategy.py 1389315 4000000000
+Number of Steps: 47
+1. Answer 1 question, bringing your total up to $1389316
+2. Answer 1 question, bringing your total up to $1389319
+3. Answer 1 question, bringing your total up to $1389322
+4. Answer 1 question, bringing your total up to $1389325
+5. Buy and use the discounter for $264325, making your total $1125000
+6. Buy the Level 8 ($50000) streak bonus upgrade for $1125000, making your total $0
+7. Answer 1 question, bringing your total up to $50001
+8. Buy the Level 5 (5x) multiplier upgrade for $9000, making your total $41001
+9. Answer 1 question, bringing your total up to $291006
+10. Answer 1 question, bringing your total up to $541011
+11. Buy the Level 7 (12x) multiplier upgrade for $525000, making your total $16011
+12. Buy the mega bonus for $1015, making your total $14996
+13. Buy the mini bonus for $470, making your total $14526
+14. Answer 1 question using the mini and mega bonuses, bringing your total up to $6014646
+15. Answer 1 question, bringing your total up to $6614658
+16. Answer 1 question, bringing your total up to $7214670
+17. Answer 1 question, bringing your total up to $7814682
+18. Buy the Level 9 ($250000) money per question upgrade for $7500000, making your total $314682
+19. Answer 1 question, bringing your total up to $3914682
+20. Answer 1 question, bringing your total up to $7514682
+21. Buy the Level 8 (18x) multiplier upgrade for $4875000, making your total $2639682
+22. Answer 1 question, bringing your total up to $8039682
+23. Answer 1 question, bringing your total up to $13439682
+24. Buy the Level 9 ($1000000) streak bonus upgrade for $11250000, making your total $2189682
+25. Answer 1 question, bringing your total up to $24689682
+26. Answer 1 question, bringing your total up to $47189682
+27. Answer 1 question, bringing your total up to $69689682
+28. Buy the Level 9 (30x) multiplier upgrade for $48750000, making your total $20939682
+29. Answer 1 question, bringing your total up to $58439682
+30. Answer 1 question, bringing your total up to $95939682
+31. Answer 1 question, bringing your total up to $133439682
+32. Answer 1 question, bringing your total up to $170939682
+33. Buy the Level 10 ($5000000) streak bonus upgrade for $150000000, making your total $20939682
+34. Answer 1 question, bringing your total up to $178439682
+35. Buy the Level 10 ($1000000) money per question upgrade for $75000000, making your total $103439682
+36. Answer 1 question, bringing your total up to $283439682
+37. Answer 1 question, bringing your total up to $463439682
+38. Answer 1 question, bringing your total up to $643439682
+39. Answer 1 question, bringing your total up to $823439682
+40. Buy the Level 10 (100x) multiplier upgrade for $750000000, making your total $73439682
+41. Answer 1 question, bringing your total up to $673439682
+42. Answer 1 question, bringing your total up to $1273439682
+43. Answer 1 question, bringing your total up to $1873439682
+44. Answer 1 question, bringing your total up to $2473439682
+45. Answer 1 question, bringing your total up to $3073439682
+46. Answer 1 question, bringing your total up to $3673439682
+47. Answer 1 question, bringing your total up to $4273439682
+
+$ python3 calc-gimkit-strategy.py 1389315 4000000000 1
+Number of Steps: 46
+1. Answer 1 question, bringing your total up to $1389316
+2. Buy the Level 2 ($20) streak bonus upgrade for $15, making your total $1389301
+3. Buy and use the discounter for $264320, making your total $1124981
+4. Answer 1 question, bringing your total up to $1125002
+5. Buy the Level 8 ($50000) streak bonus upgrade for $1125000, making your total $2
+6. Answer 1 question, bringing your total up to $50003
+7. Buy the Level 5 (5x) multiplier upgrade for $9000, making your total $41003
+8. Answer 1 question, bringing your total up to $291008
+9. Answer 1 question, bringing your total up to $541013
+10. Buy the Level 7 (12x) multiplier upgrade for $525000, making your total $16013
+11. Buy the mega bonus for $1015, making your total $14998
+12. Buy the mini bonus for $470, making your total $14528
+13. Answer 1 question using the mini and mega bonuses, bringing your total up to $6014648
+14. Answer 1 question, bringing your total up to $6614660
+15. Answer 1 question, bringing your total up to $7214672
+16. Answer 1 question, bringing your total up to $7814684
+17. Buy the Level 9 ($250000) money per question upgrade for $7500000, making your total $314684
+18. Answer 1 question, bringing your total up to $3914684
+19. Answer 1 question, bringing your total up to $7514684
+20. Buy the Level 8 (18x) multiplier upgrade for $4875000, making your total $2639684
+21. Answer 1 question, bringing your total up to $8039684
+22. Answer 1 question, bringing your total up to $13439684
+23. Buy the Level 9 ($1000000) streak bonus upgrade for $11250000, making your total $2189684
+24. Answer 1 question, bringing your total up to $24689684
+25. Answer 1 question, bringing your total up to $47189684
+26. Answer 1 question, bringing your total up to $69689684
+27. Buy the Level 9 (30x) multiplier upgrade for $48750000, making your total $20939684
+28. Answer 1 question, bringing your total up to $58439684
+29. Answer 1 question, bringing your total up to $95939684
+30. Answer 1 question, bringing your total up to $133439684
+31. Answer 1 question, bringing your total up to $170939684
+32. Buy the Level 10 ($5000000) streak bonus upgrade for $150000000, making your total $20939684
+33. Answer 1 question, bringing your total up to $178439684
+34. Buy the Level 10 ($1000000) money per question upgrade for $75000000, making your total $103439684
+35. Answer 1 question, bringing your total up to $283439684
+36. Answer 1 question, bringing your total up to $463439684
+37. Answer 1 question, bringing your total up to $643439684
+38. Answer 1 question, bringing your total up to $823439684
+39. Buy the Level 10 (100x) multiplier upgrade for $750000000, making your total $73439684
+40. Answer 1 question, bringing your total up to $673439684
+41. Answer 1 question, bringing your total up to $1273439684
+42. Answer 1 question, bringing your total up to $1873439684
+43. Answer 1 question, bringing your total up to $2473439684
+44. Answer 1 question, bringing your total up to $3073439684
+45. Answer 1 question, bringing your total up to $3673439684
+46. Answer 1 question, bringing your total up to $4273439684
