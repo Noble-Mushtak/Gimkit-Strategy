@@ -139,6 +139,7 @@ while cur_state in prev:
 lst.insert(0, cur_state)
 print("Number of Steps:", len(lst))
 for i, tpl in enumerate(lst):
+    print(str(i+1)+". ", end="")
     if i == 0 or lst[i-1][0]+calc_gain_per_q(lst[i-1]) == tpl[0]:
         print("Answer 1 question, bringing your total up to $"+str(tpl[0]))
     elif lst[i-1][0]+2*calc_gain_per_q(lst[i-1]) == tpl[0]:
