@@ -149,11 +149,11 @@ for i, tpl in enumerate(lst):
     elif lst[i-1][0]+10*calc_gain_per_q(lst[i-1]) == tpl[0]:
         print("Answer 1 question using the mini and mega bonuses, bringing your total up to $"+str(tpl[0]))
     elif tpl[1] > lst[i-1][1]:
-        print("Buy the $"+str(moneys[tpl[1]])+" money per question upgrade for $"+str(money_costs[tpl[4]][tpl[1]])+", making your total $"+str(tpl[0]))
+        print("Buy the Level "+str(tpl[1]+1)+" ($"+str(moneys[tpl[1]])+") money per question upgrade for $"+str(money_costs[tpl[4]][tpl[1]])+", making your total $"+str(tpl[0]))
     elif tpl[2] > lst[i-1][2]:
-        print("Buy the $"+str(streaks[tpl[2]])+" streak bonus upgrade for $"+str(streak_costs[tpl[4]][tpl[2]])+", making your total $"+str(tpl[0]))
+        print("Buy the Level "+str(tpl[2]+1)+" ($"+str(streaks[tpl[2]])+") streak bonus upgrade for $"+str(streak_costs[tpl[4]][tpl[2]])+", making your total $"+str(tpl[0]))
     elif tpl[3] > lst[i-1][3]:
-        print("Buy the "+str(multipliers[tpl[3]])+"x multiplier upgrade for $"+str(multiplier_costs[tpl[4]][tpl[3]])+", making your total $"+str(tpl[0]))
+        print("Buy the Level "+str(tpl[3]+1)+" ("+str(multipliers[tpl[3]])+"x) multiplier upgrade for $"+str(multiplier_costs[tpl[4]][tpl[3]])+", making your total $"+str(tpl[0]))
     elif tpl[4] > lst[i-1][4]:
         print("Buy and use the discounter for $"+str(calc_powerup_cost(4, lst[i-1][0]))+", making your total $"+str(tpl[0]))
     elif tpl[5] > lst[i-1][5]:
